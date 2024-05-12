@@ -1,0 +1,17 @@
+/Users/marcosf/Desktop/metrics-pond/bin/Debug/net8.0/metrics-pond
+/Users/marcosf/Desktop/metrics-pond/bin/Debug/net8.0/metrics-pond.deps.json
+/Users/marcosf/Desktop/metrics-pond/bin/Debug/net8.0/metrics-pond.runtimeconfig.json
+/Users/marcosf/Desktop/metrics-pond/bin/Debug/net8.0/metrics-pond.dll
+/Users/marcosf/Desktop/metrics-pond/bin/Debug/net8.0/metrics-pond.pdb
+/Users/marcosf/Desktop/metrics-pond/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/marcosf/Desktop/metrics-pond/obj/Debug/net8.0/metrics-pond.csproj.AssemblyReference.cache
+/Users/marcosf/Desktop/metrics-pond/obj/Debug/net8.0/metrics-pond.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcosf/Desktop/metrics-pond/obj/Debug/net8.0/metrics-pond.AssemblyInfoInputs.cache
+/Users/marcosf/Desktop/metrics-pond/obj/Debug/net8.0/metrics-pond.AssemblyInfo.cs
+/Users/marcosf/Desktop/metrics-pond/obj/Debug/net8.0/metrics-pond.csproj.CoreCompileInputs.cache
+/Users/marcosf/Desktop/metrics-pond/obj/Debug/net8.0/metrics-.42EE901D.Up2Date
+/Users/marcosf/Desktop/metrics-pond/obj/Debug/net8.0/metrics-pond.dll
+/Users/marcosf/Desktop/metrics-pond/obj/Debug/net8.0/refint/metrics-pond.dll
+/Users/marcosf/Desktop/metrics-pond/obj/Debug/net8.0/metrics-pond.pdb
+/Users/marcosf/Desktop/metrics-pond/obj/Debug/net8.0/metrics-pond.genruntimeconfig.cache
+/Users/marcosf/Desktop/metrics-pond/obj/Debug/net8.0/ref/metrics-pond.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uc63rnf19JVZhnvWhrCIZBMveEwnTszJoxAr2AoZXp0yfu0O3Jzs48phxokMMP2+9VIjKdbbUvTDHjDMjcec0Q==",
+  "success": true,
+  "projectFilePath": "/Users/marcosf/Desktop/metrics-pond/metrics-pond.csproj",
+  "expectedPackageFiles": [
+    "/Users/marcosf/.nuget/packages/system.diagnostics.diagnosticsource/8.0.1/system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
