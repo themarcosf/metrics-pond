@@ -19,7 +19,7 @@ E após a refatoração, a aplicação foi executada, por meio do comando `dotne
 
 <img src="./assets/fig-5.jpg" width="400"/>
 
-Instanciada e compilada a aplicação, o próximo passo foi a criação de um medidor personalizado. Para tanto, foi executado o comando do `dotnet-counters` para listar os medidores disponíveis.
+Instanciada e compilada a aplicação, o próximo passo foi a criaçãofafdsfsdfsddf de um medidor personalizado. Para tanto, foi executado o comando do `dotnet-counters` para listar os medidores disponíveis.
 
 <img src="./assets/fig-6.jpg" width="400"/>
 
