@@ -11,7 +11,7 @@ Os prompts de instalação do pacote NuGet System.Diagnostics.DiagnosticSource f
 
 <img src="./assets/fig-3.jpg" width="400"/>
 
-Uma vez instalado o pacote, a classe Program foi modificada para que se pudesse criar um medidor personalizado, conforme indicado no tutorial. O código da classe Program foi modificado conforme abaixo.
+Uma vez instalado o pacote, a classe Program foi modificada para que se pudesse criar um medidor personalizado, conforme indicado no tutorial. O código da classe Program foi modificado conforme abaixo.dfadfadsfa
 
 <img src="./assets/fig-4.jpg" width="400"/>
 
